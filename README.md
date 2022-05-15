@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lorn Jhu.
+- 👀 I’m interested in backend & frontend skills.
+- 🌱 I’m currently learning frontend.
