@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lorn Jhu. I'm a Java Developer.
 - 👀 I’m interested in backend & frontend skills.
-- 🌱 I’m currently learning frontend.
+- 🌱 I’m currently learning English.
