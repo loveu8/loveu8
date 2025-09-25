@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in backend & frontend skills.
 
-- 🌱 I’m currently learning English and looking Backend Developer job in Brisbane, Australia.
+- 🌱 I’m currently learning English and frontend skills and looking Backend Developer job in Brisbane, Australia.
 
-- 2025/03/24 by Lorn
+- 2025/09/25 by Lorn
