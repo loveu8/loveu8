@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in backend & frontend & ai skills.
 
-- 🌱 I’m currently learning English and frontend skills and looking Backend Developer job in Brisbane, Australia.
+- 🌱 I’m currently learning English, AI Codex & Claude, frontend skills and looking Backend Developer job in Brisbane, Australia.
 
-- 2026/05/15 by Lorn
+- 2026/06/08 by Lorn
